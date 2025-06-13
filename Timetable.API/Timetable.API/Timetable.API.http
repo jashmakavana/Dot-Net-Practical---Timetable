@@ -1,0 +1,6 @@
+@Timetable.API_HostAddress = http://localhost:5057
+
+GET {{Timetable.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

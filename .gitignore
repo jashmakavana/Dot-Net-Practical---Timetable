@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Timetable.API/.vs/Timetable.API
+/Timetable.API/Timetable.API/bin/Debug/net8.0
+/Timetable.API/Timetable.API/obj
+/Timetable.API/Timetable.Application/bin/Debug/net8.0
+/Timetable.API/Timetable.Application/obj
+/Timetable.API/Timetable.Domain/bin/Debug/net8.0
+/Timetable.API/Timetable.Domain/obj
